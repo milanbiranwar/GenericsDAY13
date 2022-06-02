@@ -1,0 +1,15 @@
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\bin\Debug\net6.0\GenericsDAY13.exe
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\bin\Debug\net6.0\GenericsDAY13.deps.json
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\bin\Debug\net6.0\GenericsDAY13.runtimeconfig.json
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\bin\Debug\net6.0\GenericsDAY13.dll
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\bin\Debug\net6.0\GenericsDAY13.pdb
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.AssemblyInfo.cs
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.dll
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\refint\GenericsDAY13.dll
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.pdb
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\GenericsDAY13.genruntimeconfig.cache
+C:\Users\milan\source\repos\GenericsDAY13\GenericsDAY13\obj\Debug\net6.0\ref\GenericsDAY13.dll
